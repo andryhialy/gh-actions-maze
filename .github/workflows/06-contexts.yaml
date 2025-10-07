@@ -4,7 +4,7 @@ on: push
 
 jobs:
     echo-data:
-        - runs-on: ubuntu-latest
+        runs-on: ubuntu-latest
         steps:
             - name: Display information
               run: |
