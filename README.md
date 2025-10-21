@@ -1,1 +1,1 @@
-Repository containing all examples and notes for the GitHub Actions course. This has been edited.
+Repository containing all examples and notes for the GitHub Actions course, [GitHub Actions: The Complete Guide from Beginner to Expert](URL "[GitHub Actions: The Complete Guide from Beginner to Expert](https://www.lauromueller.com/courses/mastering-github-actions)"), authored by [Lauro Müller](URL "[Lauro Müller](https://www.lauromueller.com/)").
