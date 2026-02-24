@@ -15,6 +15,8 @@ It is **not** a substitute for the course and does not include paid course video
 
 ## Rights and Respect for Original Author
 
+See `NOTICE` for attribution, provenance, and rights boundaries.
+
 - All trademarks, course branding, and original instructional content belong to their respective owners.
 - If any file in this repo is too close to protected course material, open an issue and I will review/remove it.
 - Please support the original creator by purchasing/enrolling in the course.
